@@ -13,8 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Analysis report               | <a href="https://google.com">Detection Lab</a>|
-| SIEM                                   | <a href="https://google.com">Detection Lab</a>|
+| Security Analysis report               | <a href="https://google.com">|
+| SIEM                                   | <a href="https://google.com">|
 | Microsoft Copilot                      | SOC Automation Lab|
 | Incident Response Planning             | SOC Automation Lab|
 | Network Hardening                      | SOC Automation Lab|
@@ -23,6 +23,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
+<a href="https://coursera.org/share/4eaa9bec4dc43c55d409c4bcdaebc6c9"><img src="https://img.shields.io/badge/-coursera:Networks and Network Security-0072b1?&style=for-the-badge&logo=coursera&logoColor=white" /></a>
+<a href="https://coursera.org/share/0256f56490b2fa706436d2750fc1a495"><img src="https://img.shields.io/badge/-coursera:Manage Security Risks-0072b1?&style=for-the-badge&logo=coursera&logoColor=white" /></a>
+<a href="https://coursera.org/share/29267f4dab5c7ccb1858fae1d8d3c886"><img src="https://img.shields.io/badge/-coursera:Foundations of Cybersecurity-0072b1?&style=for-the-badge&logo=coursera&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/c5408ad599fa57da2348d870ac0ee7a3dc645ea7f59ee11275425e148e0d016e?trk=share_certificate"><img src="https://img.shields.io/badge/-linkedIn learning:The Cybersecurity Threat Landscape-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/0f62567c7af53b37ce6501c5a4a3c14ba0e37193b294f0ed1eb787836545f93a?trk=share_certificate"><img src="https://img.shields.io/badge/-linkedIn learning:Cybersecurity Terminology-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/57e7309a470ee074a047858ab8a5ecabda67f2abd7bfe1761ed6081a5a6ac6c9?trk=share_certificate"><img src="https://img.shields.io/badge/-linkedIn learning:Cybersecurity Foundations-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/41357eff1fc0dfbcc3aec7cdd3df1a4fdafb7e4c3c21d316de43e308c1272195?trk=share_certificate"><img src="https://img.shields.io/badge/-linkedIn learning:Microsoft Copilot for Security-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/learning/certificates/34fd1526c2b0d493ebea4ee62fa591d13cebd08a35fae8abae5fc5630fa7ecb7?trk=share_certificate"><img src="https://img.shields.io/badge/-Microsoft and LinkedIn:Career Essentials in Cybersecurity-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
+
+
+
+
+
 
 </div>
 
