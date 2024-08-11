@@ -14,11 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Analysis report               | <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>|
-| SIEM                                   | <a href="https://google.com">|
-| Microsoft Copilot                      | SOC Automation Lab|
-| Incident Response Planning             | SOC Automation Lab|
-| Network Hardening                      | SOC Automation Lab|
-|                                        | SOC Automation Lab|  
+| Network Traffic Analysis               | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
+| Network Attacks Analysis               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
+|                                        |                 |
+
 
 ## Certifications
 
