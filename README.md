@@ -43,5 +43,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>
-- Network Security risk assessment using Wireshark and tcpdump traffic log , Network Hardening.
-- Applied OS Hardening techniques for Brute Force Attacks.
+- <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>
+- <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a>
+
