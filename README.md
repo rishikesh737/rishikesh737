@@ -1,15 +1,23 @@
-# Hello, I'm Rishikesh 
+## Hello, I'm Rishikesh 
 <a href="https://www.linkedin.com/in/rishikesh-pednekar-3184091b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<a href="https://www.instagram.com/rishikesh.fr/"><img src="https://img.shields.io/badge/-Instagram-d62976?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.youtube.com/@rishikesh_pednekar"><img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
 
 I am a Computer Science student with a profound interest in technology and recent trends .
 
-## Objective
+
+## **Objective**
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations as a Security Analyst to Further improve my knowledge and gain more experience in the same.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+# _Hobbies_
+Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]    
+
+
+
+## **Skills**
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |                                        |                 |
 
 
-## Certifications
+## **Certifications**
 
 <div>
 <a href="https://coursera.org/share/4eaa9bec4dc43c55d409c4bcdaebc6c9"><img src="https://img.shields.io/badge/-coursera:Networks and Network Security-0072b1?&style=for-the-badge&logo=coursera&logoColor=white" /></a>
@@ -39,9 +47,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 
-</div>
 
-## Projects
+
+## **Projects**
 - <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>
 - <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>
 - <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a>
