@@ -31,7 +31,7 @@ Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/cr
 
 <div>
   
-<a href="https://coursera.org/share/5db5b9b7da505060c9be66b11a3e441e"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate -#fcba03?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://coursera.org/share/5db5b9b7da505060c9be66b11a3e441e"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate -#fcba03?&style=for-the-badge&logo=google&logoColor=white" /></a>
   
 
 
