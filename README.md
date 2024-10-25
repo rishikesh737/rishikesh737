@@ -25,13 +25,13 @@ Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/cr
 | Network Traffic Analysis               | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
 | Network Attacks Analysis               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
 |                                        |                 |
-
+|        
 
 ## **Certifications**
 
 <div>
   
-<a href="https://coursera.org/share/5db5b9b7da505060c9be66b11a3e441e"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate -#fcba03?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/share/5db5b9b7da505060c9be66b11a3e441e"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate -fcba03?&style=for-the-badge&logo=google&logoColor=white" /></a>
   
 
 
