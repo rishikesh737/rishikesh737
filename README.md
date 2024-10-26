@@ -20,10 +20,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Analysis report               | <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>|
 | Network Traffic Analysis               | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
 | Network Attacks Analysis               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
-| Incident report with NIST CSF          |  <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
-| Managinf File Permissions in Linux     |  <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
-| Apply filters to SQL queries           |  <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> | 
-
+| Incident report with NIST CSF          | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
+| Managinf File Permissions in Linux     | <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
+| Apply filters to SQL queries           | <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> | 
+| Vulnerability Assessment using NIST SP 800-30 Rev. 1   | <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a> |
 
 
 ## **Certifications**
@@ -52,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a>
 
-
+- <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a>
 
 
 
