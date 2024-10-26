@@ -11,10 +11,6 @@ I am a Computer Science student with a profound interest in technology and recen
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations as a Security Analyst to Further improve my knowledge and gain more experience in the same.
 
 
-# _Hobbies_
-Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]    
-
-
 
 ## **Skills**
 
@@ -39,11 +35,6 @@ Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/cr
 
 
 
-
-
-
-
-
 ## **Projects**
 
 - <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>
@@ -53,3 +44,10 @@ Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/cr
 - <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a>
 
 - <a href="https://github.com/rishikesh737/NIST-CSF/tree/main">NIST-CSF </a>
+
+
+
+
+
+## _Hobbies_
+Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]  
