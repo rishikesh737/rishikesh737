@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Analysis               | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
 | Network Attacks Analysis               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
 | Incident report with NIST CSF          |  <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
-|        
+| Managinf File Permissions in Linux     |  <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
 
 ## **Certifications**
 
@@ -45,9 +45,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <a href="https://github.com/rishikesh737/NIST-CSF/tree/main">NIST-CSF </a>
 
+- <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a>
+
 
 
 
 
 ## _Hobbies_
 Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]  
+
+
+
+Thank You for visiting :))
