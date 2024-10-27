@@ -37,8 +37,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://coursera.org/share/5db5b9b7da505060c9be66b11a3e441e"><img src="https://img.shields.io/badge/-Google Cybersecurity Professional Certificate -fcba03?&style=for-the-badge&logo=google&logoColor=white" /></a>
   
 
-
 <a href="https://www.linkedin.com/learning/certificates/34fd1526c2b0d493ebea4ee62fa591d13cebd08a35fae8abae5fc5630fa7ecb7?trk=share_certificate"><img src="https://img.shields.io/badge/-Microsoft and LinkedIn:Career Essentials in Cybersecurity-0046b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<a href="https://www.credly.com/badges/8c41cb42-2d66-4941-83ee-a9bf14f123b6/public_url"><img src="https://img.shields.io/badge/-OPSWAT : ICIP (Introduction to Critical Infrastructure Protection)-000090?&style=for-the-badge&logo=opswatacademy&logoColor=white" /></a>
 
 
 
