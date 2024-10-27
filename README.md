@@ -25,6 +25,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | filtering Data from SQL queries        | <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> | 
 | NIST SP 800-30 Rev. 1                  | <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a> |
 | Incident Handler Journaling            | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> | 
+| Updating files through a Python algorithm  | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python
+</a> |
+
+
 
 ## **Certifications**
 
@@ -56,10 +60,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal-1 </a>
 
+- <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a>
+
 
 ## _Hobbies_
 Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]  
 
+                
 
 
-                                                                Thank You for visiting 🙃                                                                                                
+
+# _Thank You for visiting🙃_                                                                                                
