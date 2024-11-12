@@ -14,32 +14,37 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## **Skills**
 
+# _Google Cybersecurity Certificate Portfolio Projects_ 
 
-## Google Cybersecurity Course portfolio Projects
- 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Analysis report               | <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>|
-| Network Traffic Analysis               | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
-| Network Attacks Analysis               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
-| Incident report with NIST CSF          | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
-| Managing File Permissions in Linux     | <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
-| filtering Data from SQL queries        | <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> | 
-| NIST SP 800-30 Rev. 1                  | <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a> |
-| Incident Handler Journaling            | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> | 
-| Updating files through a Python algorithm  | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python
-</a> |
-
-## Forage Virtual Internship / Job Simulation 
+| Security Analysis report                      | <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>|
+| Network Traffic Analysis                      | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
+| Network Attacks Analysis                      | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
+| Incident report with NIST CSF                 | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
+| Managing File Permissions in Linux            | <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
+| filtering Data from SQL queries               | <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> | 
+| NIST SP 800-30 Rev. 1                         | <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a> |
+| Incident Handler Journaling                   | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> | 
+| Updating files through a Python algorithm     | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a> |
 
 # _TATA Cybersecurity - IAM Developer_
 
-# _Mastercard Cybersecurity_
- 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Email Improvement                    | <a href="https://github.com/rishikesh737/phishing-email-mastercard/tree/main">phishing-email-mastercard </a>|
-|                    | <a href=""> </a>|
+| IAM strategy Assessment                       | <a href="https://github.com/rishikesh737/IAM-strategy-Assessment/tree/main">IAM-strategy-Assessment </a>|
+| Designing IAM solutions                       | <a href="https://github.com/rishikesh737/Designing-IAM-Solutions/tree/main">Designing-IAM-Solutions </a>|
+
+
+# _Mastercard Cybersecurity_ 
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Phishing Awareness                            | <a href="https://github.com/rishikesh737/Phishing-Awareness-Presentation/tree/main">Phishing-Awareness-Presentation </a>|
+
+ 
+ 
+
 
 ## **Certifications**
 
@@ -52,6 +57,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
 
 <a href="https://www.credly.com/badges/8c41cb42-2d66-4941-83ee-a9bf14f123b6/public_url"><img src="https://img.shields.io/badge/-OPSWAT : ICIP (Introduction to Critical Infrastructure Protection)-000090?&style=for-the-badge&logo=opswatacademy&logoColor=white" /></a>
+
+
+## Forage Virtual Internship / Job Simulation
 
 
 
@@ -74,6 +82,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal-1 </a>
 
 - <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a>
+
+- <a href="https://github.com/rishikesh737/IAM-strategy-Assessment/tree/main">IAM-strategy-Assessment </a>
+
+- <a href="https://github.com/rishikesh737/Designing-IAM-Solutions/tree/main">Designing-IAM-Solutions </a>
+
+- <a href="https://github.com/rishikesh737/Phishing-Awareness-Presentation/tree/main">Phishing-Awareness-Presentation </a>
 
 
 ## _Hobbies_
