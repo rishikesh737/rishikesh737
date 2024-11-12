@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## **Skills**
 
-# _Google Cybersecurity Certificate Portfolio Projects_ 
+## **Google Cybersecurity Certificate Portfolio Projects**
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,7 +28,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Handler Journaling                   | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> | 
 | Updating files through a Python algorithm     | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a> |
 
-# _TATA Cybersecurity - IAM Developer_
+
+## **Forage Virtual Internship / Job Simulation**
+
+## **TATA Cybersecurity - IAM Developer**
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -36,7 +39,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Designing IAM solutions                       | <a href="https://github.com/rishikesh737/Designing-IAM-Solutions/tree/main">Designing-IAM-Solutions </a>|
 
 
-# _Mastercard Cybersecurity_ 
+# **Mastercard Cybersecurity** 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -57,9 +60,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
 
 <a href="https://www.credly.com/badges/8c41cb42-2d66-4941-83ee-a9bf14f123b6/public_url"><img src="https://img.shields.io/badge/-OPSWAT : ICIP (Introduction to Critical Infrastructure Protection)-000090?&style=for-the-badge&logo=opswatacademy&logoColor=white" /></a>
-
-
-## Forage Virtual Internship / Job Simulation
 
 
 
