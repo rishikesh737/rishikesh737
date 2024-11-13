@@ -61,6 +61,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <a href="https://www.credly.com/badges/8c41cb42-2d66-4941-83ee-a9bf14f123b6/public_url"><img src="https://img.shields.io/badge/-OPSWAT : ICIP (Introduction to Critical Infrastructure Protection)-000090?&style=for-the-badge&logo=opswatacademy&logoColor=white" /></a>
 
+<a href="https://simpli-web.app.link/e/BCQ0Q3GDuOb"><img src="https://img.shields.io/badge/-Introduction to CISSP Security Assessment & Testing and Security Operations -000FF?&style=for-the-badge&logo=simplilearn&logoColor=white" /></a>
+
 
 
 ## **Projects**
