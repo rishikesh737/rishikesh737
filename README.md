@@ -1,5 +1,6 @@
 ## Hello, I'm Rishikesh 
 <a href="https://www.linkedin.com/in/rishikesh-pednekar-3184091b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/rishikesh-pednekar/"><img src="https://img.shields.io/badge/-Credly-21A366?&style=for-the-badge&logo=Credly&logoColor=white" /></a>
 <a href="https://www.instagram.com/rishikesh.fr/"><img src="https://img.shields.io/badge/-Instagram-d62976?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@rishikesh_pednekar"><img src="https://img.shields.io/badge/-Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white" /></a>
 
