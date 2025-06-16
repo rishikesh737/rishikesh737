@@ -31,7 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## **Forage Virtual Internship / Job Simulation**
-Forage Profile : <img src="https://img.shields.io/badge/-forage-5A77ED?style=for-the-badge&logo=forage&logoColor=white" />
+Forage Profile : <a href="https://www.theforage.com/profile/qC3PYno5JSBrdFRnK"><img src="https://img.shields.io/badge/-forage-5A77ED?style=for-the-badge&logo=forage&logoColor=white" /></a>
 
 ## **TATA Cybersecurity - IAM Developer**
 
