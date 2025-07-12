@@ -97,7 +97,7 @@ Forage Profile : <a href="https://www.theforage.com/profile/qC3PYno5JSBrdFRnK"><
 
 
 ## _Hobbies_
-Football, Singing, Guitar, Gaming: Valorant [FPS], Minecraft [Action-Advenure/creative]  
+Football, Singing, Guitar.  
 
                 
 
