@@ -9,7 +9,7 @@ I am a Computer Science student with a profound interest in technology and recen
 
 ## **Objective**
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations as a Security Analyst to Further improve my knowledge and gain more experience in the same.
+
 
 
 
