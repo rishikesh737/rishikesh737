@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a Computer Science student with a profound interest in Cybersecurity, Cloud Computing, and recent technology trends. My passion lies in building secure, scalable, and efficient systems that solve real-world problems. I enjoy applying my knowledge to hands-on projects and continuously learning from new challenges.
+I am a Computer Science student with a profound interest in Cybersecurity, Cloud Computing, and recent technology trends. My passion lies in **building** and **securing** , scalable, and efficient systems that solve real-world problems. I enjoy applying my knowledge to hands-on projects and continuously learning from new challenges.
 
 ---
 
