@@ -6,22 +6,6 @@
 
 I am a Computer Science student with a profound interest in Cybersecurity, Cloud and recent trends .
 
-## **Skills**
-
-## **Google Cybersecurity Certificate Portfolio Projects**
-
-| Skill                                           | Associated Project           |
-|-----------------------------------------------|----------------------------|
-| Security Analysis report                      | <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>|
-| Network Traffic Analysis                      | <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>|
-| Network Attacks Analysis                      | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">Network-Attack-Analysis </a> |
-| Incident report with NIST CSF               | <a href="https://github.com/rishikesh737/Network-Attack-Analysis/tree/main">NIST-CSF </a> |
-| Managing File Permissions in Linux            | <a href="https://github.com/rishikesh737/Linux-file-permissions/tree/main">Linux-file-permissions </a> |      
-| filtering Data from SQL queries               | <a href="https://github.com/rishikesh737/SQL-Filter/tree/main">SQL-Filter </a> |  
-| NIST SP 800-30 Rev. 1                         | <a href="https://github.com/rishikesh737/NIST-SP-800-30-Rev.-1/tree/main">NIST-SP-800-30-Rev.-1 </a> |
-| Incident Handler Journaling                   | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> |  
-| Updating files through a Python algorithm     | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a> |
-
 ---
 
 ### **AWS Cloud Internship Projects**
@@ -60,7 +44,7 @@ Forage Profile : <a href="https://www.theforage.com/profile/qC3PYno5JSBrdFRnK"><
 
 <a href="https://www.coursera.org/account/accomplishments/records/BUX316SGSU3S"><img src="https://img.shields.io/badge/-GRC Approach to Managing Cybersecurity -%2336454F?&style=for-the-badge&color=white" /></a>
 
-## **Projects**
+## **Projects/Coursework**
 
 - <a href="https://github.com/rishikesh737/SecurityAudit/tree/main">Security Audit </a>
 - <a href="https://github.com/rishikesh737/Network-Traffic-Analysis/tree/main">Network-Traffic-Analysis </a>
