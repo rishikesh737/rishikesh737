@@ -22,11 +22,12 @@ I am a Computer Science student with a profound interest in Cybersecurity, Cloud
 | Incident Handler Journaling                   | <a href="https://github.com/rishikesh737/Incident-handler-s-journal/tree/main">Incident-handler-s-journal </a> |  
 | Updating files through a Python algorithm     | <a href="https://github.com/rishikesh737/File-update-Algorithm-with-Python/tree/main">File-update-Algorithm-with-Python </a> |
 
+---
 
 ### **AWS Cloud Internship Projects**
 This repository serves as a portfolio of the projects I completed during my internship as an **AWS Cloud Intern** at **F13 Technologies**. The work showcased here demonstrates my practical experience with various AWS services and my ability to build full-stack, scalable applications.
 
-I primarily used **JavaScript** and **ReactJS** for the front-end components and leveraged the **AWS Amplify CLI** and **AWS Console** for backend configuration and deployment.
+I primarily used **HTML****CSS****JavaScript** and **ReactJS** for the front-end components and leveraged the **AWS Amplify CLI** and **AWS Console** for backend configuration and deployment.
 
 **Repository:** [AWS Cloud Internship Projects](https://github.com/rishikesh737/AWS-Cloud-Internship-f13-rishi)
 
